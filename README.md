@@ -2,6 +2,8 @@
 
 A package adding support for common astronomy data files in Polars.
 
+[![DOI](https://zenodo.org/badge/960686891.svg)](https://doi.org/10.5281/zenodo.15151274)
+
 ## Installing
 
 `pip install polars_astro`
